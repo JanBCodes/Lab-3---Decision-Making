@@ -1,7 +1,7 @@
 <script>
 
 let user_name, side_a, side_b, side_c;
-alert(`Welcome to the Ministry of Education's Triangle Corner`)
+alert(`Welcome to the Ministry of Education's Triangle Corner`);
 user_name=prompt(`Please enter your name`);
 alert(`Nice to meet you ${user_name}, Let's learn about Triangles!`);
 
